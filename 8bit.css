@@ -1,15 +1,22 @@
-body {
+
+html,body {
 	background-color: black;
+	height:100%;
+}
+.masthead {
+	height:100%;
+}
+.container {
 	height:100%;
 }
 
 #trumpvswrapper {
+	height:100%;
 	font-family: "Press Start 2P", sans-serif;
 	background-color: black;
 	color: white;
 	padding-top: 54px;
-	height: 100%;
-	background-image:url("https://i.imgur.com/rAX0xZt.png");
+	background-image:url("https://i.imgur.com/Kt5V9Sv.png");
 	background-position:center 54px;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -26,4 +33,10 @@ body {
 	padding: 20px;
 	box-shadow: 0 3px 0 0 #007299;
 	border-radius: 45px;
+}
+p {
+	font-size: .75em;
+}
+h3 {
+	font-size: 1.5em;
 }
