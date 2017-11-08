@@ -29,12 +29,14 @@ html,body {
 	background-color: rgba(0,0,0,.6);
 	padding-top: 50px;
 	padding-bottom:50px;
+	border: 2px solid red;
 }
 .header-centered {
 	margin: auto;
 	padding: auto;
-	max-width: 500px;
+	max-width: 410px;
 	max-height: 150px;
+	border: 2px solid white;
 }
 #header-image {
 	margin-top:12px;
@@ -45,6 +47,7 @@ html,body {
 	vertical-align:middle;
 }
 #header-gif {
+	width:40%
 	margin-top:11px;
 }
 .btn-primary {
