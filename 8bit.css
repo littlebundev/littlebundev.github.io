@@ -27,14 +27,13 @@ html,body {
 }
 .card {
 	background-color: rgba(0,0,0,.6);
-	padding-top: 50px;
-	padding-bottom:50px;
+	padding-top: 30px;
+	padding-bottom:30px;
 }
 .header-centered {
 	margin: auto;
-	padding: auto;
 	max-width: 410px;
-	max-height: 150px;
+	max-height: 135px;
 	text-align:center;
 }
 #header-image {
@@ -46,11 +45,12 @@ html,body {
 	vertical-align:middle;
 }
 #header-gif {
-float:left;
+	float:left;
 	width:33%;
 	margin-top:11px;
 }
 .btn-primary {
+margin-top: -20px;
 	padding: 20px;
 	box-shadow: 0 3px 0 0 #007299;
 	border-radius: 45px;
