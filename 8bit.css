@@ -50,7 +50,8 @@ html,body {
 	margin-top:11px;
 }
 .btn-primary {
-margin-top: -20px;
+	margin-top:-20px;
+	margin-bottom:100px;
 	padding: 20px;
 	box-shadow: 0 3px 0 0 #007299;
 	border-radius: 45px;
