@@ -26,9 +26,16 @@ html,body {
 	background-repeat:no-repeat;
 }
 .card {
-	background-color: rgba(0,0,0,.6);
+	background-color: rgba(0,0,0,.2);
 	padding-top: 20px;
 	padding-bottom:30px;
+	margin: auto;
+	height: 100%;
+	width: 100%;
+	border:none;
+}
+.card-header {
+	border:none;
 }
 .header-centered {
 	margin: auto;
