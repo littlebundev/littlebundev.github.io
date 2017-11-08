@@ -2,6 +2,7 @@
 html,body {
 	background-color: black;
 	height:100%;
+	font-family: "Press Start 2P", sans-serif;
 }
 .masthead {
 	height:100%;
@@ -28,6 +29,23 @@ html,body {
 	background-color: rgba(0,0,0,.6);
 	padding-top: 50px;
 	padding-bottom:50px;
+}
+.header-centered {
+	margin: auto;
+	padding: auto;
+	width: 500px;
+	height: 150px;
+}
+#header-image {
+	margin-top:12px;
+	width:60%;
+	float:left;
+	max-height:125px;
+	max-width:275px;
+	vertical-align:middle;
+}
+#header-gif {
+	margin-top:11px;
 }
 .btn-primary {
 	padding: 20px;
