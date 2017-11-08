@@ -29,25 +29,25 @@ html,body {
 	background-color: rgba(0,0,0,.6);
 	padding-top: 50px;
 	padding-bottom:50px;
-	border: 2px solid red;
 }
 .header-centered {
 	margin: auto;
 	padding: auto;
 	max-width: 410px;
 	max-height: 150px;
-	border: 2px solid white;
+	text-align:center;
 }
 #header-image {
 	margin-top:12px;
-	width:60%;
+	width:66%;
 	float:left;
 	max-height:125px;
 	max-width:275px;
 	vertical-align:middle;
 }
 #header-gif {
-	width:40%
+float:left;
+	width:33%;
 	margin-top:11px;
 }
 .btn-primary {
